@@ -1,0 +1,30 @@
+body{
+  background-color: #b28900;
+}
+
+.headerClass{
+  height:100px;
+  width:100%;
+  background-color: #ffc400;
+}
+.mainClass{
+  height:500px;
+  width:100%;
+  background-color: white;
+}
+.footerClass{
+  height:80px;
+  width:100%;
+  background-color: #ffcf33;
+}
+.headerImgCls{
+  display:block;
+  margin:auto;
+  height:100px;
+  width:100px;
+  border-radius:50%;
+}
+.headerNameCls{
+  padding-top: 2px;
+  padding-left: 2%;
+}

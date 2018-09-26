@@ -1,0 +1,32 @@
+body{
+  background-color: #EEEEEE;
+  font-size:20px;
+  color:black;
+  font-weight:normal;
+  line-height: normal;
+  font-family:"Comic Sans MS", cursive, sans-serif;
+  background-image: url('../images/bg3.jpg');
+  background-repeat:repeat;
+}
+.headerClass{
+  /* background-color: #00BCD4; */
+  color:#424242;
+}
+#navBar a{
+  color: #FF5722;
+}
+#navBar a:hover{
+  color: #424242;
+}
+address.cls{
+  color:#546E7A;
+  text-align:center;
+  border:1px dotted #546E7A;
+}
+main.wrapper{
+  /* background-color: #FBE9E7; */
+  color:#FF5722;
+}
+.footerClass{
+  text-align: right;
+}
